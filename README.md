@@ -1,2 +1,3 @@
 # First steps
-studying Python
+studying Python. 
+
