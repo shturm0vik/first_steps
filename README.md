@@ -1,2 +1,2 @@
-# sh.
+# First steps
 studying Python
