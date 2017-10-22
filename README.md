@@ -1,0 +1,2 @@
+# sh.
+studying Python
